@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\Shajih Baig\\Weekly Labs\\Week4\\Week4\\Week4.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\Shajih Baig\\Weekly Labs\\Week4\\Week-4\\Week4\\Week4.csproj",
       "projectName": "Week4",
-      "projectPath": "C:\\Users\\Dell\\Desktop\\Shajih Baig\\Weekly Labs\\Week4\\Week4\\Week4.csproj",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\Shajih Baig\\Weekly Labs\\Week4\\Week-4\\Week4\\Week4.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Desktop\\Shajih Baig\\Weekly Labs\\Week4\\Week4\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Desktop\\Shajih Baig\\Weekly Labs\\Week4\\Week-4\\Week4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"

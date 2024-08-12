@@ -88,7 +88,6 @@ namespace SydneyCoffee
             // summary heading
             Console.WriteLine("\t\t\t\t\tSummary of sales\n");
             Console.WriteLine("-----------------------------------------------------------------------------");
-            Console.WriteLine("-----------------------------------------------------------------------------");
 
             // displaying table header
             Console.WriteLine(String.Format("{0,15}{1,10}{2,10}{3,10}",
