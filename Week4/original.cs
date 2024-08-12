@@ -102,8 +102,8 @@ namespace SydneyCoffee
             
             Console.WriteLine("-----------------------------------------------------------------------------");
             Console.WriteLine("-----------------------------------------------------------------------------");
-            Console.WriteLine(String.Format("The customer spending most is {0} ${1}", maxName, max));
-            Console.WriteLine(String.Format("The customer spending least is {0} ${1}", minName, min));
+            Console.WriteLine(String.Format(maxName ,": spent the most amount {0} ${1}", max));
+            Console.WriteLine(String.Format(minName ,": spent the least amount {0} ${1}", min));
 
         }
     }
